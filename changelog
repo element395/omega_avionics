@@ -12,7 +12,7 @@ Stable Software-
 2.19 - Added PWM Sensing, smart recovery detection, and fixed data logging.
 
 Lastest Version-
-2.21 - 
+2.21 - Added in the smart abort system, fixed the launch detect aswell as the state machine, and made the pyro channel configuration easier.
 
 Future Version-
-
+2.22 - Added capability for 2 stage rockets, and added the course correct feature.
