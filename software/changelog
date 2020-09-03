@@ -1,5 +1,4 @@
 Past Software-
-1.1 - Added Liftoff Detection.
 1.2 - Rebuilt Software around raw gyroscopes instead of kalman filter.
 1.3 - Fixed issue with accelerometer where it gets divided by 32.8.
 1.4 - Added Auto Abort Termination System.
@@ -9,7 +8,6 @@ Past Software-
 2.18 - Made the software more user friendly.
 
 Stable Software-
-2.19 - Added PWM Sensing, smart recovery detection, and fixed data logging.
 2.21 - Added in the smart abort system, fixed the launch detect aswell as the state machine, and made the pyro channel configuration easier.
 
 Lastest Version-
