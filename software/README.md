@@ -22,4 +22,8 @@ Thrust Vector Control Software thats open-sourced!
  * 3 = In-flight abort.
  */
  
+ This software is used to actively stabilize a model rocket and not to guide it.
+ 
+ In the software you can choose between the BMI088 and MPU6050 based on if you are using MK5 or MK4.
+ 
 *Please do not publish these files without permission :)
