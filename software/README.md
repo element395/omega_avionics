@@ -16,9 +16,10 @@ Thrust Vector Control Software thats open-sourced!
 
 
 /*System State: 
- * 0 = Go/No Go before launch
- * 1 = PID Controlled Ascent
- * 2 = Parachute Controlled Descent
+ * 0 = Go/No Go before launch.
+ * 1 = PID Controlled Ascent.
+ * 2 = MECO - 2 seconds before parachute deployment.
+ * 3 = In-flight abort.
  */
  
 *Please do not publish these files without permission :)
