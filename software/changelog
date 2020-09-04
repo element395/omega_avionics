@@ -13,5 +13,8 @@ Stable Software-
 Lastest Version-
 2.25 - Completely re-designed the state machine, added different LED's to show different parts of the flight, and made the code smaller and easier on the processor.
 
+Beta Release - 
+2.3 - Added Functionality for the BMI088 IMU.
+
 Future Version-
-2.26 - Added capability for 2 stage rockets, and added the course correct feature.
+2.4 - Added capability for 2 stage rockets, and added the course correct feature.
