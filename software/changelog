@@ -6,16 +6,14 @@ Past Software-
 2.1 - It now computes rotational matrices to get rid of the "drift" from the roll axis.
 2.15 - Fixed the Launch Detection problem.
 2.18 - Made the software more user friendly.
-
-Stable Software-
-2.21 - Added in the smart abort system, fixed the launch detect aswell as the state machine, and made the pyro channel configuration easier.
-2.25 - Completely re-designed the state machine, added different LED's to show different parts of the flight, and made the code smaller and easier on the processor.
-
-Lastest Version-
 2.31 - BMI088 IMU & BMP280 code finished. Fixed several issues.
 
-Beta Release - 
-2.3 - Added Functionality for the BMI088 IMU. - OUTDATED
+Omega i2 Stable Software-
+2.4 - Fixed the delay issue and the SD Card Data Output issue.
+
+Omega MK4 Stable Software - 
+2.21 - Added in the smart abort system, fixed the launch detect aswell as the state machine, and made the pyro channel configuration easier.
+2.25 - Completely re-designed the state machine, added different LED's to show different parts of the flight, and made the code smaller and easier on the processor.
 
 Future Version-
 2.4 - Added capability for 2 stage rockets, and added the course correct feature.
