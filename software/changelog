@@ -10,6 +10,7 @@ Past Software-
 
 Omega i2 Stable Software-
 2.4 - Fixed the delay issue and the SD Card Data Output issue.
+2.42 - Added Altitude based deployment instead of a simple delay. Now once the flight computer detects burnout it waits until the rocket desends below a certain altitude then it deploys the parachutes.
 
 Omega MK4 Stable Software - 
 2.21 - Added in the smart abort system, fixed the launch detect aswell as the state machine, and made the pyro channel configuration easier.
