@@ -3,8 +3,8 @@ Past Software-
 1.3 - Fixed issue with accelerometer where it gets divided by 32.8.
 1.4 - Added Auto Abort Termination System.
 2.0 - Added Capablilty for SD Card Write and BMP388 Barometer. Also fixed gyro drift issue and it now calibrates every time in startup.
-2.1 - It now computes rotational matrices to get rid of the "drift" from the roll axis.
-2.15 - Fixed the Launch Detection problem.
+2.1 - It now computes rotational matrices to change the orientation input from local to global orientation.
+2.15 - Fixed the Launch Detection state machine problem.
 2.18 - Made the software more user friendly.
 2.31 - BMI088 IMU & BMP280 code finished. Fixed several issues.
 
